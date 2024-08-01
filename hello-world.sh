@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "Hello tanvee"
+echo "tanvee"
 
